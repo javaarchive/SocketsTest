@@ -1,0 +1,27 @@
+{
+  "name": "socketstest",
+  "version": "1.0.0",
+  "description": "Typos and more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javaarchive/SocketsTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javaarchive/SocketsTest/issues"
+  },
+  "homepage": "https://github.com/javaarchive/SocketsTest#readme",
+  "dependencies": {
+    "expre": "^0.1.1",
+    "expres": "^0.0.5",
+    "expresss": "^0.0.0",
+    "fs": "^0.0.1-security",
+    "ko": "^5.3.0"
+  }
+}
