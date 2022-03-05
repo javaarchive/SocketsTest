@@ -18,10 +18,19 @@
   },
   "homepage": "https://github.com/javaarchive/SocketsTest#readme",
   "dependencies": {
+    "command": "^0.0.5",
+    "debugg": "^0.0.1",
+    "debugs": "^1.0.11",
     "expre": "^0.1.1",
     "expres": "^0.0.5",
     "expresss": "^0.0.0",
     "fs": "^0.0.1-security",
-    "ko": "^5.3.0"
+    "ko": "^5.3.0",
+    "kodash": "^2.0.5",
+    "mkdir": "^0.0.2",
+    "podash": "^1.2.0",
+    "react-do": "^1.1.6",
+    "requests": "^0.3.0",
+    "vur": "^1.0.0"
   }
 }
